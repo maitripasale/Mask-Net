@@ -7,8 +7,7 @@
 Mask-Net is an IOT device that can be easily attached with existing cameras or surveillance system for effective mask-based detection system. It consists of a Raspberry Pi, webcam and an Ultrasonic sensor. The device uses advanced Machine Learning models to detect whether a person is wearing a mask or not with an accuracy of 90-95%.
 
 ## Hardware
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-057.jpg)
--   Raspberry Pi
+![enter image description here](https://github.com/maitripasale/Mask-Net/blob/main/image-057.jpg)
 -   Webcam
 -   Ultrasonic sensor
 -   Speaker
@@ -24,19 +23,19 @@ Mask-Net is an IOT device that can be easily attached with existing cameras or s
 
 1. Login Screen
 
-![sign in using face](https://github.com/maitripasale/Mask-Net/raw/master/image-059.jpg)
+![sign in using face](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-059.jpg)
 
 1. Sign up using face
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-060.png)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-060.png)
 
 1. View Penalties
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-028.jpg)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-028.jpg)
 
 1. Pay Penalities
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-029.jpg)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-029.jpg)
 
 - Backend:
 -   Database (SQLite, MongoDB)
@@ -47,9 +46,9 @@ Mask-Net is an IOT device that can be easily attached with existing cameras or s
 
 - Admin Dashboard
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-030.jpg)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-030.jpg)
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-031.jpg)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-031.jpg)
 
 ## Functionality
 
