@@ -14,7 +14,7 @@ Mask-Net is an IOT device that can be easily attached with existing cameras or s
 -   LEDs
 -   Jumper wires
 
-![enter image description here](https://github.com/maitripasale/Mask-Net/raw/master/image-078.jpg)
+![enter image description here](https://raw.githubusercontent.com/maitripasale/Mask-Net/master/image-078.jpg)
 
 
 ## Software
