@@ -1,0 +1,8 @@
+
+fastapi
+python-multipart
+mongoengine
+python-dotenv
+face_recognition
+uvicorn
+blinker
